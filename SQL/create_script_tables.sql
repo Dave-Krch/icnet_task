@@ -1,12 +1,5 @@
 
--- v postgresql jsem se naucil drop table cascade, tady my ssms vygenerovalo tohle, pri provozu databaze se tak casto tabulky nedropuji, ale na testovani mensich databazi se mi to hodi, takze je to prvni vec co hledam v kazde nove odnozi sql, ke ktere se dostanu :)
-USE [company]
-GO
-/****** Object:  Table [dbo].[employee_position]    Script Date: 20.06.2024 21:15:53 ******/
-IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[employee_position]') AND type in (N'U'))
-DROP TABLE [dbo].[employee_position]
-GO
-
+drop table if exists employee_position;
 drop table if exists employee;
 drop table if exists position;
 
