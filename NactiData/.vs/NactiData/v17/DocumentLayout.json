@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\icnet_task\\NactiData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EAD59C-F0F3-427C-98B3-A079CD92AAEF}|NactiData\\NactiData.csproj|d:\\work\\icnet_task\\nactidata\\nactidata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EAD59C-F0F3-427C-98B3-A079CD92AAEF}|NactiData\\NactiData.csproj|solutionrelative:nactidata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EAD59C-F0F3-427C-98B3-A079CD92AAEF}|NactiData\\NactiData.csproj|d:\\work\\icnet_task\\nactidata\\nactidata\\nactidata.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F1EAD59C-F0F3-427C-98B3-A079CD92AAEF}|NactiData\\NactiData.csproj|solutionrelative:nactidata\\nactidata.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NactiData",
+              "DocumentMoniker": "D:\\Work\\icnet_task\\NactiData\\NactiData\\NactiData.csproj",
+              "RelativeDocumentMoniker": "NactiData\\NactiData.csproj",
+              "ToolTip": "D:\\Work\\icnet_task\\NactiData\\NactiData\\NactiData.csproj",
+              "RelativeToolTip": "NactiData\\NactiData.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T20:02:05.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\icnet_task\\NactiData\\NactiData\\Program.cs",
+              "RelativeDocumentMoniker": "NactiData\\Program.cs",
+              "ToolTip": "D:\\Work\\icnet_task\\NactiData\\NactiData\\Program.cs",
+              "RelativeToolTip": "NactiData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:47:50.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

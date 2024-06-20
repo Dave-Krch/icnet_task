@@ -1,0 +1,15 @@
+D:\Work\icnet_task\NactiData\NactiData\bin\Debug\net8.0\NactiData.exe
+D:\Work\icnet_task\NactiData\NactiData\bin\Debug\net8.0\NactiData.deps.json
+D:\Work\icnet_task\NactiData\NactiData\bin\Debug\net8.0\NactiData.runtimeconfig.json
+D:\Work\icnet_task\NactiData\NactiData\bin\Debug\net8.0\NactiData.dll
+D:\Work\icnet_task\NactiData\NactiData\bin\Debug\net8.0\NactiData.pdb
+D:\Work\icnet_task\NactiData\NactiData\obj\Debug\net8.0\NactiData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\icnet_task\NactiData\NactiData\obj\Debug\net8.0\NactiData.AssemblyInfoInputs.cache
+D:\Work\icnet_task\NactiData\NactiData\obj\Debug\net8.0\NactiData.AssemblyInfo.cs
+D:\Work\icnet_task\NactiData\NactiData\obj\Debug\net8.0\NactiData.csproj.CoreCompileInputs.cache
+D:\Work\icnet_task\NactiData\NactiData\obj\Debug\net8.0\NactiData.sourcelink.json
+D:\Work\icnet_task\NactiData\NactiData\obj\Debug\net8.0\NactiData.dll
+D:\Work\icnet_task\NactiData\NactiData\obj\Debug\net8.0\refint\NactiData.dll
+D:\Work\icnet_task\NactiData\NactiData\obj\Debug\net8.0\NactiData.pdb
+D:\Work\icnet_task\NactiData\NactiData\obj\Debug\net8.0\NactiData.genruntimeconfig.cache
+D:\Work\icnet_task\NactiData\NactiData\obj\Debug\net8.0\ref\NactiData.dll
