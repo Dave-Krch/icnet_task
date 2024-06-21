@@ -5,15 +5,15 @@ drop table if exists position;
 
 create table employee(
 	id int identity(1,1) primary key,
-	name nvarchar(32),
-	surname nvarchar(32),
-	insurance_company nvarchar(64),
-	city nvarchar(64)
+	name nvarchar(32) not null,
+	surname nvarchar(32) not null,
+	insurance_company nvarchar(64) not null,
+	city nvarchar(64) not null
 );
 
 create table position(
 	id int identity(1,1) primary key,
-	name nvarchar(64)
+	name nvarchar(64) not null
 );
 
 create table employee_position(
